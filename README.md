@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 IT Project Manager
 ------------------
 
-I'm an experienced IT Project Manager specializing in software development and cybersecurity. My background combines technical expertise in Java and full-stack development with strategic leadership in Agile, Scrum, and Waterfall methodologies. I have a proven track record of successfully delivering complex projects on time and within budget while leading cross-functional teams and optimizing processes. My passion lies in driving innovation, mitigating risks, and ensuring the highest quality standards across all phases of project execution. Open to collaboration and continuously seeking opportunities to deliver value through technology-driven solutions.
+I'm an experienced certified IT Project Manager specializing in software development and cybersecurity. My background combines technical expertise in Java (Spring), Angular, and WordPress with strategic leadership in **Agile**, **Scrum**, and **Waterfall** methodologies. My passion lies in driving innovation, mitigating risks, and ensuring the highest quality standards across all phases of project execution. Open to collaboration and continuously seeking opportunities to deliver value through technology-driven solutions.
 
 * 🌍  I'm based in Warsaw, Poland
 * ✉️  You can contact me at [vchornyy12@gmail.com](mailto:vchornyy12@gmail.com)
 * 🚀  I'm currently working on [KOSSA SOFT](http://kossasoft.com)
-* 🧠  I'm learning PMI
+* 🧠 I'm continuously deepening my knowledge in IT project management and refine my skills in various methodologies.
 * 🤝  I'm open to collaborating. I am eager to work with innovative companies and on exciting projects that present challenges and allow me to implement creative solutions. My drive for professional growth and improvement motivates me to engage in projects that contribute to innovative approaches and significant industry advancements.
 * ⚡ I wouldn't say I like coffee))))
 
