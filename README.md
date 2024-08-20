@@ -54,6 +54,25 @@ I am also well-versed in SDLC.<br>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
+   <td align="center" width="88">
+        <img src="./images/03-jira.svg" alt="Jira" width="44" height="44"/>
+      <br>Jira
+     </td>
+   <td align="center" width="88">
+        <img src="./images/16-git.svg" alt="Git" width="44" height="44"/>
+      <br>Git
+    <td align="center" width="88">
+        <img src="./images/18-figma.svg" alt="Figma" width="44" height="44"/>
+      <br>Figma
+     </td>
+     <td align="center" width="88">
+        <img src="./images/06-intellij-idea.svg" alt="Idea" width="44" height="44"/>
+      <br>Idea
+     </td>
+     <td align="center" width="88">
+        <img src="./images/17-vscode.svg" alt="Visual Studio Code" width="44" height="44"/>
+      <br>VSCode
+     </td>
      <td align="center"  width="88">
          <img src="./images/01-html5.svg" alt="HTML5" width="44" height="44"/>
       <br>HTML5
@@ -76,17 +95,14 @@ I am also well-versed in SDLC.<br>
       <br>Postman
     </td>
       </td>
-     <td align="center" width="88">
-        <img src="./images/16-git.svg" alt="Git" width="44" height="44"/>
-      <br>Git
     </td>
   <td align="center" width="88">
-        <img src="./images/17-vscode.svg" alt="Visual Studio Code" width="44" height="44"/>
-      <br>VSCode
+        <img src="./images/07-java.svg" alt="Java" width="44" height="44"/>
+      <br>Java
      </td>
   <td align="center" width="88">
-        <img src="./images/18-figma.svg" alt="Figma" width="44" height="44"/>
-      <br>Figma
+        <img src="./images/05-angular.svg" alt="Angular" width="44" height="44"/>
+      <br>Angular
      </td>
 </table>
 </div>
