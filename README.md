@@ -67,11 +67,11 @@ I am also well-versed in SDLC.<br>
       <br>Wordpress
      </td>
      <td align="center" width="88">
-        <img src="./images/31-excel" alt="Excel" width="44" height="44"/>
+        <img src="./images/32-excel.svg" alt="Excel" width="44" height="44"/>
       <br>Excel
      </td>
      <td align="center" width="88">
-        <img src="./images/31-google-sheets" alt="Wordpress" width="44" height="44"/>
+        <img src="./images/31-google-sheets.svg" alt="Wordpress" width="44" height="44"/>
       <br>Wordpress
      </td>
    <td align="center" width="88">
