@@ -64,7 +64,7 @@ I am also well-versed in SDLC.<br>
      </td>
      <td align="center" width="88">
         <img src="./images/21-wordpress.svg" alt="Wordpress" width="44" height="44"/>
-      <br>Wordpress
+      <br>WordPress
      </td>
      <td align="center" width="88">
         <img src="./images/32-excel.svg" alt="Excel" width="44" height="44"/>
@@ -72,7 +72,7 @@ I am also well-versed in SDLC.<br>
      </td>
      <td align="center" width="88">
         <img src="./images/31-google-sheets.svg" alt="Wordpress" width="44" height="44"/>
-      <br>Wordpress
+      <br>WSheets
      </td>
    <td align="center" width="88">
         <img src="./images/16-git.svg" alt="Git" width="44" height="44"/>
