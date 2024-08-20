@@ -58,6 +58,22 @@ I am also well-versed in SDLC.<br>
         <img src="./images/03-jira.svg" alt="Jira" width="44" height="44"/>
       <br>Jira
      </td>
+     <td align="center" width="88">
+        <img src="./images/22-slack.svg" alt="Slack" width="44" height="44"/>
+      <br>JSlack
+     </td>
+     <td align="center" width="88">
+        <img src="./images/21-wordpress.svg" alt="Wordpress" width="44" height="44"/>
+      <br>Wordpress
+     </td>
+     td align="center" width="88">
+        <img src="./images/31-excel" alt="Excel" width="44" height="44"/>
+      <br>Excel
+     </td>
+     td align="center" width="88">
+        <img src="./images/31-google-sheets" alt="Wordpress" width="44" height="44"/>
+      <br>Wordpress
+     </td>
    <td align="center" width="88">
         <img src="./images/16-git.svg" alt="Git" width="44" height="44"/>
       <br>Git
@@ -103,6 +119,10 @@ I am also well-versed in SDLC.<br>
   <td align="center" width="88">
         <img src="./images/05-angular.svg" alt="Angular" width="44" height="44"/>
       <br>Angular
+     </td>
+     <td align="center" width="88">
+        <img src="./images/20-postgresql.svg" alt="PostgreSQL" width="44" height="44"/>
+      <br>PostgreSQL
      </td>
 </table>
 </div>
