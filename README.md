@@ -66,11 +66,11 @@ I am also well-versed in SDLC.<br>
         <img src="./images/21-wordpress.svg" alt="Wordpress" width="44" height="44"/>
       <br>Wordpress
      </td>
-     td align="center" width="88">
+     <td align="center" width="88">
         <img src="./images/31-excel" alt="Excel" width="44" height="44"/>
       <br>Excel
      </td>
-     td align="center" width="88">
+     <td align="center" width="88">
         <img src="./images/31-google-sheets" alt="Wordpress" width="44" height="44"/>
       <br>Wordpress
      </td>
