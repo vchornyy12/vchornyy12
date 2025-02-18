@@ -43,7 +43,7 @@ I am also well-versed in SDLC.<br>
   </tr>
    <tr>
     
-        RU Russian - Intermediate
+        RU Russian - Fluent
         
   </tr>
 </table>
